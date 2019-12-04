@@ -8,3 +8,4 @@
 
 1. [Prolog 설치](https://blog.naver.com/jaeyoon_95/221253882699)
 2. [Prolog 문법 및 Facts, Rules, Queries](https://blog.naver.com/jaeyoon_95/221314856884)
+3. [Unification, Proof search, Recursion](https://blog.naver.com/jaeyoon_95/221314885510)
